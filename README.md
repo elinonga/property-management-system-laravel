@@ -1,0 +1,2 @@
+# property-management-system-laravel
+Aim of this project was to develop a real estate web application using Laravel &amp; Vue Js. The real estate system Give the functionality for buyers, allowing them to search for houses by features or address. It provides functionality for the seller, authorize them to log into the system and add new advertisements or delete existing ones. For this each user is provided a login account with email and password.
